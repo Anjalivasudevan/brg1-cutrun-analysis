@@ -1,0 +1,23 @@
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.bw
+*.bigWig
+
+# Temporary files
+*.tmp
+*.log
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
