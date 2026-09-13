@@ -1,0 +1,3 @@
+track_id,genotype,cell_state,assay,target,processed_file,source_replicates,geo_series
+WT_naive,WT,naive,CUT&RUN,BRG1,GSE207788_WT_Brg1_2i_spikein.bw,GSM6443692;GSM6443693,GSE207788
+WT_primed,WT,primed,CUT&RUN,BRG1,GSE207788_WT_Brg1_CDM_spikein.bw,GSM6443698;GSM6443699,GSE207788

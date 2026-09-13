@@ -1,0 +1,13 @@
+sample_id,genotype,cell_state,replicate,assay,target,geo_accession
+WT_naive_rep1,WT,naive,1,CUT&RUN,BRG1,GSM6443692
+WT_naive_rep2,WT,naive,2,CUT&RUN,BRG1,GSM6443693
+dAT1_naive_rep1,dAT1,naive,1,CUT&RUN,BRG1,GSM6443694
+dAT1_naive_rep2,dAT1,naive,2,CUT&RUN,BRG1,GSM6443695
+dAT2_naive_rep1,dAT2,naive,1,CUT&RUN,BRG1,GSM6443696
+dAT2_naive_rep2,dAT2,naive,2,CUT&RUN,BRG1,GSM6443697
+WT_primed_rep1,WT,primed,1,CUT&RUN,BRG1,GSM6443698
+WT_primed_rep2,WT,primed,2,CUT&RUN,BRG1,GSM6443699
+dAT1_primed_rep1,dAT1,primed,1,CUT&RUN,BRG1,GSM6443700
+dAT1_primed_rep2,dAT1,primed,2,CUT&RUN,BRG1,GSM6443701
+dAT2_primed_rep1,dAT2,primed,1,CUT&RUN,BRG1,GSM6443702
+dAT2_primed_rep2,dAT2,primed,2,CUT&RUN,BRG1,GSM6443703
